@@ -1,7 +1,7 @@
 # Research
 
 Topic:
-Why you can't speak Egnlish
+Why you can't speak English
 
 Key Points
 
