@@ -6,12 +6,10 @@ def create_article(topic: str) -> str:
         topic: The topic provided by the user.
 
     Returns:
-        Markdown formatted content be wrote.
+       Markdown formatted article content.
     """
 
-    return f"""# Research
-Topic:
-{topic}
+    return f"""# {topic}
 
 Content:
 Many learners study English for years but still struggle to speak fluently.
